@@ -1,6 +1,6 @@
 package centredeformation;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class Etudiant extends individu{
 	private Date dateInscription;
