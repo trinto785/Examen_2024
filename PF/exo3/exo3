@@ -1,0 +1,6 @@
+function 
+
+longestWord('a b c d e fgh') => "fgh";
+longestWord('one two three') => "three";
+longestWord('red blue grey') => "grey";
+
